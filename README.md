@@ -3,6 +3,6 @@
 
 运行环境：Python 3.7.2
 
-运行软件: PyCharm
+运行软件: PyCharm(看个人喜好,脚本能跑就行)
 
 操作系统: Windows 10
